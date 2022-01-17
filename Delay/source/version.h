@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------
-// Copyright(c) 2022 Niche Sounds.
+// Copyright(c) 2022 Andrew Holt.
 //------------------------------------------------------------------------
 
 #pragma once
@@ -32,5 +32,5 @@
 #define stringFileDescription	"Delay VST3"
 #endif
 #define stringCompanyName		"Niche Sounds\0"
-#define stringLegalCopyright	"Copyright(c) 2022 Niche Sounds."
+#define stringLegalCopyright	"Copyright(c) 2022 Andrew Holt."
 #define stringLegalTrademarks	"VST is a trademark of Steinberg Media Technologies GmbH"
