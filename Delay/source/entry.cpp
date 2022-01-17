@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------
-// Copyright(c) 2022 Niche Sounds.
+// Copyright(c) 2022 Andrew Holt.
 //------------------------------------------------------------------------
 
 #include "processor.h"
@@ -21,7 +21,7 @@ using namespace MyCompanyName;
 // GetPluginFactory function!
 //------------------------------------------------------------------------
 
-BEGIN_FACTORY_DEF ("Niche Sounds", 
+BEGIN_FACTORY_DEF ("Andrew Holt", 
 			       "", 
 			       "mailto:")
 
